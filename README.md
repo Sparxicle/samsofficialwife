@@ -30,7 +30,7 @@
  ${\textsf{\color{#A0522D}"Haru . Head Nurse . Bassie . Haruka ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F08000}"20 . AuDHD . OCD . Anxiety ."}}$
+ ${\textsf{\color{#F08000}"20 . AuDHD . OCD . Anxiety . Aroace ."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#FFF5EE}"Please be patient with me . I'm a heavy overthinker ."}}$
